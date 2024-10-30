@@ -1,0 +1,29 @@
+.cta_class {
+    width: 100%;
+}
+#cta_subheading_metabox .inside {
+    padding: 10px;
+}
+fieldset {
+    padding: 10px 0;
+}
+.banneField label {
+    font-weight: bold;
+}
+.banneField input, .banneField select {
+    margin-top: 10px;
+}
+#cta_image_properties_metabox, #cta_text_properties_metabox {
+    width: 49%;
+    float: left;
+    margin: 0 3px;
+}
+.bannerRadioBtn {
+    margin: 10px 10px !important;
+}
+.click-count:before {
+    content: "\f177";
+	font:normal 20px/1 dashicons;
+	display: inline-block;
+}
+
